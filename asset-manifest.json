@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EduTech_Works/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/EduTech_Works/static/js/main.4d193cba.chunk.js",
+    "main.js.map": "/EduTech_Works/static/js/main.4d193cba.chunk.js.map",
+    "runtime-main.js": "/EduTech_Works/static/js/runtime-main.cf10f1ca.js",
+    "runtime-main.js.map": "/EduTech_Works/static/js/runtime-main.cf10f1ca.js.map",
+    "static/css/2.4dc96d81.chunk.css": "/EduTech_Works/static/css/2.4dc96d81.chunk.css",
+    "static/js/2.38b848f6.chunk.js": "/EduTech_Works/static/js/2.38b848f6.chunk.js",
+    "static/js/2.38b848f6.chunk.js.map": "/EduTech_Works/static/js/2.38b848f6.chunk.js.map",
+    "static/js/3.501bc488.chunk.js": "/EduTech_Works/static/js/3.501bc488.chunk.js",
+    "static/js/3.501bc488.chunk.js.map": "/EduTech_Works/static/js/3.501bc488.chunk.js.map",
+    "index.html": "/EduTech_Works/index.html",
+    "static/css/2.4dc96d81.chunk.css.map": "/EduTech_Works/static/css/2.4dc96d81.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/EduTech_Works/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.38b848f6.chunk.js.LICENSE.txt": "/EduTech_Works/static/js/2.38b848f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf10f1ca.js",
+    "static/css/2.4dc96d81.chunk.css",
+    "static/js/2.38b848f6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4d193cba.chunk.js"
+  ]
+}
