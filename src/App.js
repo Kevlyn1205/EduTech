@@ -149,7 +149,7 @@ function App(){
           <button className="btn btn-danger" onClick={()=>abrirCerrarModalInsertar()}>Cancelar</button>
         </ModalFooter>
       </Modal>
-
+            
       <Modal isOpen={modalEditar}>
         <ModalHeader>Editar Cliente</ModalHeader>
         <ModalBody>
